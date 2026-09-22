@@ -38,7 +38,7 @@ iniciales.
 | <!-- Enlace de M P A -->                                         |         |           |
 | [DebetLess](https://github.com/manupa16/DebetLess/pull/1)        | v0.0.1  |           |
 | [Mixamen] (https://github.com/jpeiperugr/Mixamen/pull/2)         | v0.0.3  |           |
-| https://github.com/manuusnchz/gestor-ciclismo/pull/1             | v0.0.6  |           |
+| https://github.com/manuusnchz/gestor-ciclismo/pull/1             | v0.0.7  |           |
 | https://github.com/Carlitros20/AutoescuelaAC/pull/1              | v0.0.1  | ✓         |
 | [FoodMatcher](https://github.com/Hugopm04/FoodMatcher/pull/1)    | v0.0.1  |           |
 | <!-- Enlace de LuisPV05 -->                                      |         |           |
